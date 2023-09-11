@@ -1,2 +1,6 @@
 # ArrShow
-An image processing functionality, to visualize and explore d-dimensional data
+An image processing functionality, to visualize and explore n-dimensional data
+
+## Setup
+
+## Usage
